@@ -1,0 +1,30 @@
+{
+  "name": "moon",
+  "version": "1.0.0",
+  "description": "mongoose testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkalamanderKing/moon.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "Fredrick Östlund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkalamanderKing/moon/issues"
+  },
+  "homepage": "https://github.com/SkalamanderKing/moon#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.9.9",
+    "morgan": "^1.8.1",
+    "pug": "^2.0.0-rc.1"
+  }
+}
